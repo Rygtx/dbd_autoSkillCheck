@@ -4,6 +4,14 @@
 
 Using it may violate game rules and trigger anti-cheat detection. The author is not responsible for any consequences resulting from its use, this includes bans or any other unspecified violations. Use at your own risk. Join the [discord server](#acknowledgments) for more details about how to test it, after accepting the fair-use agreement.
 
+You are free to use or modify this software, but you must strictly adhere to the terms of the GNU General Public License v3.0 (GPLv3).
+If you are distributing or selling a compiled version of this tool, you must:
+1. State clearly that it is based on this repository and include the original copyright notice.
+2. Provide a copy of the GPLv3 license to your users.
+3. Make the full source code available to anyone you distribute it to, under the exact same GPLv3 license.
+
+Taking this code, closing the source, stripping the attribution, and selling it as your own proprietary software is a direct violation of the license and copyright law.
+
 # DBD Auto Skill Check
 
 The Dead by Daylight Auto Skill Check is a tool developed using AI (deep learning with PyTorch) to automatically detect and successfully hit skill checks in the popular game Dead by Daylight.
